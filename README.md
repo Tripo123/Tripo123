@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @Tripo123
+- 👀 I’m interested in ...
+learn programming
+- 🌱 I’m currently learning ...
+languages
+- 💞️ I’m looking to collaborate on ...
+an international company
+- 📫 How to reach me ...
+I have my email ivancirulnicoff@gmail.com where I am active 24 hours a day
+- 😄 Pronouns: ... 5
+- ⚡ Fun fact: ...
+
+<!---
+Tripo123/Tripo123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
